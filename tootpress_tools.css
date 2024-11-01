@@ -1,0 +1,18 @@
+/* 
+TootPress CSS @ Admin
+*/
+
+#dashboard_right_now li a.toot-count:before {
+    content: "\f488";
+}
+
+.tootpress-healtycheck-warning
+{
+    background-color:yellow;
+}
+
+.tootpress-healtycheck-error
+{
+    color:white;
+    background-color:red;
+}
